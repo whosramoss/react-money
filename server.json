@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Website development",
+      "type": "income",
+      "category": "Sale",
+      "price": 14000,
+      "createdAt": "2024-01-30T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Food",
+      "price": 60,
+      "createdAt": "2024-01-30T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "description": "Monitor",
+      "type": "outcome",
+      "category": "Shopping",
+      "price": 800,
+      "createdAt": "2024-01-30T00:00:00.000Z"
+    },
+    {
+      "description": "Pizza",
+      "price": 80,
+      "category": "Food",
+      "type": "outcome",
+      "createdAt": "2024-09-24T20:10:39.666Z",
+      "id": 4
+    }
+  ]
+}
